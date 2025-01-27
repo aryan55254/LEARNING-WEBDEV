@@ -1,0 +1,17 @@
+{
+  "name": "week01",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
