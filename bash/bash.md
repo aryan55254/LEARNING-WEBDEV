@@ -9,3 +9,5 @@ cat to print contents
 mv to move files
 cp to copy files
 for directory add -r before cp
+rm -r to delete 
+rm -tf to force delete 
