@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function B2( {text = "click me" }){
 

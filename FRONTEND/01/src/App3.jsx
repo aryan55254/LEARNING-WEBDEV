@@ -1,4 +1,4 @@
-import React from 'react'
+
 import B from './B'
 //pro0ps method 01
 function App3() {

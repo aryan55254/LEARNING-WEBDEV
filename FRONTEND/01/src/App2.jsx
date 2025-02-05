@@ -1,4 +1,4 @@
-import React from 'react'
+
 //conditional rendering using terneray operator 
 function App2() {
     const animals = [

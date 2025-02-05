@@ -1,4 +1,4 @@
-import React from 'react'
+
 import B2 from './B2'
 function App4() {
   return (
