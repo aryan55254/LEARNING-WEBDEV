@@ -8,7 +8,6 @@
 //is all workers are busy then 5th has to wait 
 //blocking operations have scalibility issues 
 //default thread pool size is 4 u can add thread if u have more cores in cpuconst fs = require("fs");
-
 fs.readFile("contacts.txt", "utf-8", (err, result) => {
     if (err) {
         console.error("Error reading the file", err);

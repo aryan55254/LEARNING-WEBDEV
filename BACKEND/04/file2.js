@@ -1,5 +1,5 @@
 const fs = require("fs");
-
+//non-blocking
 fs.readFile("contacts.txt", "utf-8", (err, result) => {
     if (err) {
         console.error("Error reading the file", err);
