@@ -11,4 +11,3 @@
 //hooks 
 // hooks are functions that let you use react features  all of them use "use" as prefix they can be called from top level of a functional component , cant be called inside loops or conditions
 //we should  treat state as if it was immutable 
-//
