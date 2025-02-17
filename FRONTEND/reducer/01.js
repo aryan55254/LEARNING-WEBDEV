@@ -1,0 +1,1 @@
+//usereducer is just same as usestate u wanna use it or not depends on u 
